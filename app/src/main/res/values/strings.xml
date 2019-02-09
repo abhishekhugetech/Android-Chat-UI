@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Slide Up Menu</string>
+    <string name="app_name">Android Chat</string>
     <string name="sample_text">So I wanted to create a slide up a menu on clicking a FAB as shown in the image. If anyone can come up with some ideas as in how can I implement it, it would be of great help.</string>
 </resources>
